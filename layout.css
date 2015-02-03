@@ -1,0 +1,25 @@
+.view-wrapper{
+    width: 50%;
+    position: relative;
+}
+.text-wrapper{
+    margin: 0 15%;
+}
+#pointer{
+    width: 150px;
+    height: 23px;
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+#points{
+    width: 100px;
+    float: left;
+    height: 23px;
+    margin: 0;
+    padding: 0;
+}
+
+.view-wrapper #gameView{
+    margin: 0 5%;
+}
