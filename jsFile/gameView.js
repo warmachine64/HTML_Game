@@ -178,7 +178,7 @@ function circleClicked(e){
     }
 
     if(currentDot.indexX==0||currentDot.indexX==8||currentDot.indexY==0||currentDot.indexY==8){
-        alert("Game Over! plz refresh page and try again");
+        alert("Game Over! You have failed to trap the blue dot, Plz refresh the page and try it again");
         return;
     }
     //direction, we hav 6 directions Basic Ideas
